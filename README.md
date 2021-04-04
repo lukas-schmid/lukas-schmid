@@ -10,7 +10,9 @@ As a solution oriented person, the gained knowledge in HTML, CSS and Javascript 
 
 :mortar_board: :rocket: With my passion to grow, diving even deeper into development and bringing my knowledge on a high professional level , I decided to apply to the full stack javascript developer bootcamp at </salt> - School of applied technology. I was one out of 20 applicants selected out of 1,200.
 
-📫 How to reach me: schmid.luk@hotmail.com
+📫 How to reach me: schmid.luk@hotmail.com  
+
+🔭 I’m currently working on the final project for the 3 month bootcamp at </salt> - School of applied technology
 
 <!--
 **lukas-schmid/lukas-schmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
