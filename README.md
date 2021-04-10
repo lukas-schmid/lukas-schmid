@@ -12,10 +12,11 @@ As a solution oriented person, the gained knowledge in HTML, CSS and Javascript 
 
 📫 How to reach me: schmid.luk@hotmail.com  
 
-🔭 I’m currently working on the final project for the 3 month bootcamp at </salt> - School of applied technology
 
 <!--
 **lukas-schmid/lukas-schmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🔭 I’m currently working on the final project for the 3 month bootcamp at </salt> - School of applied technology
 
 Here are some ideas to get you started:
 
